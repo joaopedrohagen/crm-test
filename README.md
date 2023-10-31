@@ -2,7 +2,7 @@
   <br>
   <img src="mercury.png" width="200">
   <br>
-  Mercury CRM
+  Mercury - CRM
   <br>
 </h1>
 
