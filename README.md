@@ -8,6 +8,10 @@
 
 <h4 align="center"> A customizable and elegant CRM project  </h4>
 
+![python](https://img.shields.io/badge/Python-3.10.12-yellow)
+![django](https://img.shields.io/badge/Django-4.2.3-brown)
+[![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/joaopedrohagen)
+
 ---
 
 Mercury CRM is a Customer Relationship Management (CRM) application developed using the Django framework and styled with the assistance of Tailwind CSS. It's a simple and highly customizable CRM solution designed to help businesses effectively manage their customer relationships.
